@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@500;600&family=Fraunces:wght@700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2? family= Barlow:wght@500 & display=swap');
+
+
+html {
+    font-size: 18px;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+
+
+
+   header img{
+    margin: 10px;
+    padding: 10px;
+    }
+    
+    .container{
+        display: flex;
+        align-items: center;
+    }
+    
+    nav > a{
+       padding: 120px;
+       color: white;
+       font-weight: bold;
+       text-decoration: none;
+        
+    }
+    
+    nav >a:hover{
+        color: wheat;
+    }
+    #contato{
+        padding: 20px;
+        border-radius: 20px 20px;
+        background-color: white;
+        color: black;
+      }
+    
+    #contato:hover{
+        color: white;
+        background-color:#3EBFFF ;
+    }
+    
+    header {
+        background: no-repeat center/cover  url(img/image-header.jpg);
+        height:100vh ;
+        margin: auto;
+   }
+    
+    
+    #icon{
+    text-align: center;
+    font-size: 2.8rem;
+     text-align: center;
+     color: white;
+     margin: 3.7rem 0 2.7rem;
+     letter-spacing: 4px;
+    }
+
+    .your{
+        padding: 108px;
+        height: 50vh;
+        display: inline-block;
+        width: 400px;
+    }
+    #image{
+        float: right;
+        width: 50%;
+        
+    }
+
+    #image2{
+        width: 49%;
+    }
+
+    #teste{
+        float: right;
+        text-align: justify;
+        border: transparent thin solid;
+        padding: 108px;
+         max-width: 186px;
+    }
+    .container1 {
+        position: relative;
+      }
+      
+      #image5 {
+        width: 50%;
+        position: absolute;
+      }
+      
+      #texto {
+        position: absolute;
+        font-size: 18px;
+        text-align: center;
+        left: 50px;
+        top: 300px;
+      }
+
+      .container2 {
+        width: 50%;
+        float: right;
+        position: relative;
+      }
+      
+      #image6 {
+        position: relative;
+      }
+      
+      #texto1 {
+        position: absolute;
+        font-size: 18px;
+        text-align: center;
+        left: 50px;
+        top: 300px;
+      }
+      .teste{
+        margin: 70px;
+        
+      }
+   
+
+    
+    
+    
+       
